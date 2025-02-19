@@ -1,0 +1,54 @@
+[
+  {
+    "id": "289ff5ff-32cc-42e6-bf56-90d7a9f261ce",
+    "fname": "VOLODYMYR",
+    "lname": "TROFYMOV",
+    "email": "VOLODYMYR.TROFYMOV@lnu.ed",
+    "password": "$2b$10$Jj6oDBQ2jnlUshzCS1Mhi.WFe0W7IJYHj9mkSDATtpasqsruh/4lq",
+    "number": "+3800637114154",
+    "birthdate": "0486-05-16",
+    "gender": "male",
+    "country": "Ukraine",
+    "agreement": "on",
+    "photo": "1739437195677-1366345514.jpg"
+  },
+  {
+    "id": "71548adc-2e74-4071-885f-b00c8e72e0ce",
+    "fname": "Wild",
+    "lname": "Robokop",
+    "email": "Robota@work.ua",
+    "password": "$2b$10$FurfTzU/cVegJ1S24clxBOiMJ7al07KMUDJDlv9w2gvy.BJjw/7Ta",
+    "number": "+38071168493",
+    "birthdate": "3137-06-04",
+    "gender": "male",
+    "country": "Canada",
+    "agreement": "on",
+    "photo": "1739694743416-f84b993796e2d1634c4cec0e9619f893.jpeg"
+  },
+  {
+    "id": "475b7872-1813-4321-8c7b-cfaed289fd39",
+    "fname": "VOLODYMYRaffwaf",
+    "lname": "TROFYMOVnlkaihnicaoiunf",
+    "email": "VOLODYMYR.TROFYMOV@lnu.ed",
+    "password": "$2b$10$vEyzcF2WJ.UZfo3yBZqGJeFUu7iGao0IcRBi5Ig/v3hlkaNMmuhv6",
+    "number": "+3807114682",
+    "birthdate": "275760-04-04",
+    "gender": "male",
+    "country": "Ukraine",
+    "agreement": "on",
+    "photo": "1739974148362-f84b993796e2d1634c4cec0e9619f893.jpeg"
+  },
+  {
+    "id": "00ba2948-6aaf-4ce6-8f48-1efbd7a50278",
+    "fname": "Mike",
+    "lname": "Honor",
+    "email": "colos@contora.ua",
+    "password": "$2b$10$pf2EDRMLS/GmLCrSD9Ih.uYk26OChNYdknkbSPuKjrDA7C/sT3OlS",
+    "number": "+380694381694",
+    "birthdate": "6753-04-09",
+    "gender": "male",
+    "country": "USA",
+    "agreement": "on",
+    "photo": "1739977656930-f84b993796e2d1634c4cec0e9619f893.jpeg"
+  }
+]
